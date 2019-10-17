@@ -10,7 +10,7 @@
 
 
 
-# 安装IntelliJIDEA 
+## 安装IntelliJIDEA 
 
 **IDEA是一个能够在Windows、macOS和Linux操作系统上提供一致体验的跨平台的IDE。**
 
