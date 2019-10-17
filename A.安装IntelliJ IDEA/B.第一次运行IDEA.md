@@ -1,6 +1,8 @@
 ### 目录
 
-- [导入IntelliJ IDEA的设置](#IntelliJIDEA之初体验)
+- [IntelliJ IDEA之初体验](#IntelliJIDEA之初体验)
+
+- [导入IntelliJ IDEA的设置](#导入IntelliJ IDEA的设置)
 - [选择用户界面主题](#选择用户界面主题)
 - [禁用不需要的插件](#禁用不需要的插件)
 - [下载并安装额外的插件](#禁用不需要的插件)
