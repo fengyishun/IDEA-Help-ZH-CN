@@ -1,6 +1,6 @@
 # 目录
 
-- [安装IntelliJ IDEA](#安装IntelliJ IDEA )
+- [安装IntelliJ IDEA](#安装IntelliJIDEA )
 - [系统要求](#系统要求)
 - [使用工具箱安装](#使用工具箱安装)
 - [单独安装](#单独安装)
@@ -10,7 +10,7 @@
 
 
 
-# 安装IntelliJ IDEA 
+# 安装IntelliJIDEA 
 
 **IDEA是一个能够在Windows、macOS和Linux操作系统上提供一致体验的跨平台的IDE。**
 
