@@ -41,7 +41,7 @@ IDEA有以下版本可用：
 
    运行起来之后，点击提示区域的图标并选择你想安装哪个产品哪个版本。
 
-   ![alt](https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/res/toolbox_app_win.png)
+   ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/res/toolbox_app_win.png>)
 
 ## 单独安装
 
@@ -52,3 +52,11 @@ IDEA有以下版本可用：
 2. 运行安装文件并按步骤安装。
 
    32位的操作系统的JRE没有绑定IntelliJ IDEA。如果您用的Windows 32位系统，请在安装向导里选择“下载并安装JRE x86 JetBrains”选项。
+
+
+
+
+
+
+
+[回到顶部](#安装IntelliJ IDEA)
