@@ -10,7 +10,7 @@
 
 
 
-# IntelliJIDEA之初体验
+## IntelliJIDEA之初体验
 
 当您第一次运行IntelliJ IDEA 或者从旧版本升级到新版本，在安装过程中一些步骤都需要去完成。定制属于你的IntelliJ IDEA并用它来工作吧~
 
