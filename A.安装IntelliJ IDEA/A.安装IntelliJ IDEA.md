@@ -55,7 +55,7 @@ IDEA有以下版本可用：
 
    运行起来之后，点击提示区域的图标并选择你想安装哪个产品哪个版本。
 
-   ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/res/toolbox_app_win.png>)
+   ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/toolbox_app_win.png>)
 
 
 
