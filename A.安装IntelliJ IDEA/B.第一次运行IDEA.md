@@ -22,7 +22,7 @@
 
 在 Complete Installation对话框中，选择您是否导入IntelliJ IDEA的配置。
 
-！[alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_complete_installation_dialog.png>)
+![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_complete_installation_dialog.png>)
 
 
 
