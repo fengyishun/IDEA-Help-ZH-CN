@@ -1,10 +1,20 @@
-[TOC]
+# 目录
 
-# IntelliJ IDEA 
+- [安装IntelliJ IDEA](#安装IntelliJ IDEA )
+- [系统要求](#系统要求)
+- [使用工具箱安装](#使用工具箱安装)
+- [单独安装](#单独安装)
+- 
+
+
+
+
+
+# 安装IntelliJ IDEA 
 
 **IDEA是一个能够在Windows、macOS和Linux操作系统上提供一致体验的跨平台的IDE。**
 
-这份指南描述了在Ｗｉｎｄｏｗｓ上安装的方式。
+这份指南描述了在Windows上安装的方式。
 
 IDEA有以下版本可用：
 
@@ -42,6 +52,8 @@ IDEA有以下版本可用：
    运行起来之后，点击提示区域的图标并选择你想安装哪个产品哪个版本。
 
    ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/res/toolbox_app_win.png>)
+   
+   
 
 ## 单独安装
 
@@ -51,7 +63,7 @@ IDEA有以下版本可用：
 
 2. 运行安装文件并按步骤安装。
 
-   32位的操作系统的JRE没有绑定IntelliJ IDEA。如果您用的Windows 32位系统，请在安装向导里选择“下载并安装JRE x86 JetBrains”选项。
+   **32位的操作系统的JRE没有绑定IntelliJ IDEA。如果您用的Windows 32位系统，请在安装向导里选择“下载并安装JRE x86 JetBrains”选项。**
 
 
 
@@ -59,4 +71,8 @@ IDEA有以下版本可用：
 
 
 
-[回到顶部](#IntelliJ IDEA)
+​																																		
+
+
+
+​																																							[回到顶部](#目录)
