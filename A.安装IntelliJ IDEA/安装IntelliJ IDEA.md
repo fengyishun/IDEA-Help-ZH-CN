@@ -47,7 +47,7 @@ IDEA有以下版本可用：
 
 手动安装IntelliJ IDEA可以管理每个实例和所有的配置文件。比如说您需要将它安装在特定的路径。
 
-1. 下载安装包 <https://www.jetbrains.com/idea/download/>
+1. 下载安装包 [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/ "下载")
 
 2. 运行安装文件并按步骤安装。
 
