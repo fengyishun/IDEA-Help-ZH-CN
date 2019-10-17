@@ -1,4 +1,4 @@
-# 目录
+### 目录
 
 - [安装IntelliJ IDEA](#安装IntelliJIDEA )
 - [系统要求](#系统要求)
@@ -52,8 +52,8 @@ IDEA有以下版本可用：
    运行起来之后，点击提示区域的图标并选择你想安装哪个产品哪个版本。
 
    ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/res/toolbox_app_win.png>)
-   
-   
+
+
 
 ## 单独安装
 
@@ -67,7 +67,27 @@ IDEA有以下版本可用：
 
 
 
+## 静默安装
 
+静默安装没有任何用户界面。网络管理员可以在多台机器上安装并避免打扰到其他用户。
+
+若想静默安装，按下面步骤运行安装文件：
+
+- /S:  启用静默安装
+- /D:  指定安装目录的路径
+- /CONFIG: 指定静默配置文件的路径 
+
+举个栗子：
+
+` ideaIU.exe /S /CONFIG=d:\temp\silent.config /D=d:\IDE\IntelliJ IDEA Ultimate`
+
+**静默配置文件**
+
+您可以为IntelliJ IDEA 下载静默配置文件  <https://download.jetbrains.com/idea/silent.config>
+
+静默配置文件定义了安装IntelliJ IDEA的操作。默认只对当前用户（mode=user）执行静默安装。如果您想给所有的用户安装IntelliJ IDEA，用编辑器打开静默配置文件，改变安装模式参数（mode=admin）的值并且以管理员身份运行安装文件。
+
+​    大苏打撒撒旦法是
 
 
 
@@ -75,4 +95,4 @@ IDEA有以下版本可用：
 
 
 
-​																																							[回到顶部](#目录)
+​																																					[回到顶部](#目录)
