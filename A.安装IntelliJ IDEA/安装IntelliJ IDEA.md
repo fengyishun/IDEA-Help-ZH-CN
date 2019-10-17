@@ -1,6 +1,6 @@
 [TOC]
 
-# 安装IntelliJ IDEA 
+# IntelliJ IDEA 
 
 **IDEA是一个能够在Windows、macOS和Linux操作系统上提供一致体验的跨平台的IDE。**
 
@@ -59,4 +59,4 @@ IDEA有以下版本可用：
 
 
 
-[回到顶部](#安装IntelliJ IDEA)
+[回到顶部](#IntelliJ IDEA)
