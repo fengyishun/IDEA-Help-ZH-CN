@@ -1,6 +1,6 @@
 ### 目录
 
-- [Toolbox App(工具箱)](#Toolbox App(工具箱))
+- [Toolbox App(工具箱)](#ToolboxApp(工具箱))
 - [单独工具](#单独工具)
 
 &nbsp;
@@ -9,7 +9,7 @@
 
 
 
-## Toolbox App(工具箱)
+## ToolboxApp(工具箱)
 
 如果你是通过Toolbox App 安装的IntelliJ IDEA，若有新的可用版本时会建议你更新。
 
