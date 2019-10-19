@@ -40,7 +40,7 @@
 
 你可以在**Settings/Preferences**（ctrl + alt + s）首选项面板中的 **Appearance and Behavior | System Settings**的**Updates** 选项来管理IDEA 的更新配置。
 
-###### 手动检查更新
+#### 手动检查更新
 
 如果你禁用了自动检查更新，点击Check Now按钮看看是否有新版本可用。
 
@@ -51,7 +51,7 @@
 
 ​	
 
-###### 检查更新渠道
+#### 检查更新渠道
 
  使用更新渠道列表来限制你想使用的版本。
 
