@@ -71,9 +71,7 @@ IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和�
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_welcomeScreen.png>)
 
-
-
-
+&nbsp;
 
 [回到顶部](#目录)
 
