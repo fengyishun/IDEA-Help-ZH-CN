@@ -38,7 +38,7 @@
 
 &nbsp;
 
-你可以在**Settings/Preferences**（ctrl + alt + s）首选项面板中的 **Appearance and Behavior | System Settings**的**Updates** 选项来管理IDEA 的更新配置。
+你可以在 **Settings/Preferences**（ctrl + alt + s）首选项面板中的 **Appearance and Behavior | System Settings**的**Updates** 选项来管理IDEA 的更新配置。
 
 #### 手动检查更新
 
@@ -46,8 +46,8 @@
 
 或者你可以在主菜单中检查更新：
 
-- Windows和Linux：Help | Check Updates
-- macOS: IntelliJ IDEA | Check for Updates
+- Windows和Linux：**Help | Check Updates**
+- macOS: **IntelliJ IDEA | Check for Updates**
 
 ​	
 

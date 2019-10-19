@@ -1,6 +1,6 @@
 ### 目录
 
-- [多种许可](#多种许可)
+- [多个许可](#多个许可)
 
 &nbsp;
 
@@ -33,7 +33,7 @@
 
 
 
-## 多种许可
+## 多个许可
 
 如果你还有其他需要许可的插件，从主菜单中打开 **Help | Licenses**中的 **Licenses** 对话框。
 
@@ -52,7 +52,7 @@
 
 [回到顶部](#目录)
 
-[上一节　注册IntelliJ IDEA>](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　升级IntelliJ IDEA>](/A.安装IntelliJIDEA/D.升级IntelliJIDEA.md)
+[上一节　第一次运行IntelliJ IDEA>](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)　　　　　　　　　　　　　　　　　　　　　　 　[下一节　更新IntelliJ IDEA>](/A.安装IntelliJIDEA/D.更新IntelliJIDEA.md)
 
 &nbsp;
 
