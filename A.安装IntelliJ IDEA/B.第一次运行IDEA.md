@@ -79,4 +79,5 @@ IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和�
 
 
 
-[< 上一节  安装IntelliJ IDEA](A.安装IntelliJ IDEA) 　　　　　　　　　　　　　　　　　[下一节  注册IntelliJ IDEA>]()
+[< 上一节 安装IntelliJ IDEA](/B.入门指南/本章内容介绍.md)　　　　　　　　　　　　　　[下一节  注册IntelliJ IDEA>](/A.安装IntelliJ IDEA/A.安装IntelliJ IDEA.md)
+
