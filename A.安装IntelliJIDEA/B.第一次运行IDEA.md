@@ -28,7 +28,7 @@
 
 如果这是您第一次安装IntelliJIDEA,选择“Do not import settings option”选项。
 
-`您也可以稍后通过主目录中的File- Import Settings和File- Export Settings来手动导入、导出配置项。`
+`稍后您也可以通过主目录中的File- Import Settings和File- Export Settings来手动导入、导出配置项。`
 
 
 
@@ -44,7 +44,7 @@
 
 ## 禁用不必要的插件
 
-IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和应用服务，并且支持各种框架和开发技术栈等等。为了提高性能，您可以禁用掉您不需要的插件。如果需要，您稍后可以通过File-Settings首选项配置面板（ctrl+alt+s）中的Plugins选项来启用它。了解更多[插件管理](#chajianguanli)。
+IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和应用服务，并且支持各种框架和开发技术栈等等。为了提高性能，您可以禁用掉不需要的插件。如果需要，您稍后可以在File-Settings首选项配置面板（ctrl+alt+s）中的Plugins选项中来启用它。了解更多[插件管理](#chajianguanli)。
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_set_plugins.png>)
 
@@ -75,9 +75,9 @@ IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和�
 
 
 
-[回到顶部](#IntelliJIDEA之初体验)
+[回到顶部](#目录)
 
 
 
-[< 上一节　安装IntelliJ IDEA](/A.安装IntelliJIDEA/A.安装IntelliJIDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　注册IntelliJ IDEA>](/A.安装IntelliJIDEA/A.安装IntelliJIDEA.md)
+[< 上一节　安装IntelliJ IDEA](/A.安装IntelliJIDEA/A.安装IntelliJIDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　注册IntelliJ IDEA>](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)
 

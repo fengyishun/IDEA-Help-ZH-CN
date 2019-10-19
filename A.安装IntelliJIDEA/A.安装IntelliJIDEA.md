@@ -18,9 +18,9 @@
 
 IDEA有以下版本可用：
 
-- 社区版是免费且开源的，Apaceh2.0开原许可。它提供了JVM和Android开发的基本功能。
+- 社区版：免费且开源，Apaceh2.0开原许可。它提供了JVM和Android开发的基本功能。
 
-- 旗舰版是收费的，但有30天体验期。它为Web企业开发提供了额外的工具和功能。
+- 旗舰版：收费，但有30天体验期。它为Web企业开发提供了额外的工具和功能。
 
 了解更多，https://www.jetbrains.com/idea/features/editions_comparison_matrix.html
 
@@ -37,7 +37,7 @@ IDEA有以下版本可用：
 | 显示器   | 1024x768           | 1920×1080                   |
 | 操作系统 | 最低Win7           | 最新的64位版本              |
 
-`您不需要再安装Java即可运行IDEA，因为JRE1.8已经绑定了IntelliJ IDEA。但是要开发一个Java应用还需要有一个独立的JDK。`
+`您不需要再安装Java环境即可运行IDEA，因为IntelliJ IDEA已经绑定了JRE1.8。但是要开发一个Java应用还需要有一个独立的JDK。`
 
 
 
@@ -45,7 +45,7 @@ IDEA有以下版本可用：
 
 ## 使用工具箱安装
 
-安装JetBrains 的产品推荐使用JetBrains Toolbox App（工具箱）。使用它来安装和维护不同产品或者同一产品的不同版本，包含最早的EAP版本，必要时升级或者回滚，并且方便的移除任何工具。工具箱维护着你所有的项目列表，可以让你快速的打开任何项目，并且能确保项目的IDE类别和版本的正确性。
+安装JetBrains 的产品推荐使用JetBrains Toolbox App（工具箱）。使用它来安装和维护不同产品或者同一产品的不同版本，包含最早的EAP版本，必要时升级或者回滚，并且方便的移除任何工具。工具箱维护着你所有的项目列表，可以让你快速的打开任何项目，并且能确保项目的IDE类别和版本的准确性。
 
 ### 安装工具箱
 
@@ -56,6 +56,8 @@ IDEA有以下版本可用：
    运行起来之后，点击提示区域的图标并选择你想安装哪个产品哪个版本。
 
    ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/toolbox_app_win.png>)
+
+
 
 
 
