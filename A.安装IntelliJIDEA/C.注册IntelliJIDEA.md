@@ -54,5 +54,6 @@
 
 [上一节　注册IntelliJ IDEA>](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　升级IntelliJ IDEA>](/A.安装IntelliJIDEA/D.升级IntelliJIDEA.md)
 
-　　　
+&nbsp;
 
+:star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:
