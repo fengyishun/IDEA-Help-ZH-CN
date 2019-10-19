@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 您可以体验IntelliJ IDEA 30天。时间过了之后您需要购买并注册许可。
 
 `IDEA的预发行版是“抢先体验计划”的一部分，不需要任何注册并有三十天的许可`
@@ -12,10 +16,10 @@
 
 按如下操作：
 
-1. 打开许可激活对话框：
+1. 打开**License Activation**对话框：
 
    - 在欢迎页点击 **Configure | Manage License**
-   - 在主菜单，选择 **Help | Register**
+   - 在主菜单选择 **Help | Register**
 
    ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_register.png>)
 
@@ -35,7 +39,7 @@
 
 ## 多种许可
 
-如果你有别的需要许可的插件，从主菜单中打开 **Help | Licenses**中的 **Licenses** 对话框。
+如果你还有其他需要许可的插件，从主菜单中打开 **Help | Licenses**中的 **Licenses** 对话框。
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/Licenses_Dialog.png>)
 
@@ -47,8 +51,6 @@
 - **Active license*（有效许可）：一直用到过期。
 
 如果想修改许可，点击**Edit** 按钮会打开**License Activation**对话框以便进行操作。
-
-
 
 
 
