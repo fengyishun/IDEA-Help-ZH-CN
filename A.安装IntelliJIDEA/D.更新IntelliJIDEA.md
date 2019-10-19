@@ -59,5 +59,53 @@
 
 - Early Access Program：提供所有的更新，包含主要版本的体验版和次要版本的预览版。不推荐在生产开发中使用这个渠道。
 
-  `IDEA只能更新为次要预览版本而不能更新为主要EAP版本。比如，你可以将2017.2.3更新到2017.2.4 EAP，但不能更新到2017.3 EAP。这种情况下的2017.3 EAP版本将作为附加实例安装`
+  `IDEA只能更新为次要预览版本而不能更新为主要EAP版本。比如，你可以将2017.2.3更新到2017.2.4 EAP，但不能更新到2017.3 EAP。这种情况下的2017.3 EAP版本将作为附加实例安装。EAP版本可以升级成较新的EAP版本和稳定的IDEA版本。如果一个EAP版本升级到稳定版本，原始的安装文件的目录名称不会改变。`
+  
+- Beta Releases or Public Previews：包括稳定发布版、发布候选版和测试版。该渠道的一些更新可能会有一些小bug和功能预览。
+
+- Stable Releases：只有推荐用于生产的稳定版本。
+
+
+
+#### 查看并管理忽略更新
+
+因为某些原因你决定忽略建议更新，当你改变主意的时候你可以再次查看到每个被你忽略掉的更新并且恢复它们。
+
+1. 点击**View/edit ignored updates** 链接。忽略更新对话框会列出当前被忽略的清单。
+
+2. 如果你确定让某个更新生效，从这个清单中将其删除即可。
+
+   `如果你从清单中删除了一些更新，当你检查更新的时候只会提供最新的下载。`
+
+
+
+#### 使用安全连接
+
+IDEA默认使用HTTPS下载更新，如果你使用不安全的HTTP，取消**Use secure connection**选项。
+
+`HTTP可能会因为安全原因被阻止连接`
+
+
+
+#### Snap包
+
+如果你是用Snap Package方式安装的IDEA，它将会自动管理更新。所有的Snap应用每天都会自动在后台更新。你也可以使用下面命令在任何时间手动获取最新的版本：
+
+`$ sudo snap refresh`
+
+如果你只向更新IntelliJ IDEA：
+
+| 旗舰版                                     | 社区版                                      |
+| ------------------------------------------ | ------------------------------------------- |
+| $ sudo snap refresh intellij-idea-ultimate | $ sudo snap refresh intellij-idea-community |
+
+&nbsp;
+
+[回到顶部](#目录)
+
+[<上一节　注册IntelliJ IDEA](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)   　　　　　　　　　　　　　　　　　　　　　　　　　[<下一节　卸载IntelliJ IDEA](/A.安装IntelliJIDEA/E.卸载IntelliJIDEA.md)
+
+&nbsp;
+
+　　　　:star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:
 
