@@ -1,3 +1,5 @@
+# 卸载IntelliJ IDEA
+
 ### 目录
 
 - [ToolboxApp工具箱](#ToolboxApp工具箱)

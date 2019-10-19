@@ -1,6 +1,9 @@
+# 安装IntelliJIDEA 
+
+
+
 ### 目录
 
-- [安装IntelliJ IDEA](#安装IntelliJIDEA )
 - [系统要求](#系统要求)
 - [使用工具箱安装](#使用工具箱安装)
 - [单独安装](#单独安装)
@@ -8,17 +11,13 @@
 
 
 
-
-
-## 安装IntelliJIDEA 
-
 **IDEA是一个能够在Windows、macOS和Linux操作系统上提供一致体验的跨平台的IDE。**
 
 这份指南描述了在Windows上安装的方式。
 
 IDEA有以下版本可用：
 
-- 社区版：免费且开源，Apaceh2.0开原许可。它提供了JVM和Android开发的基本功能。
+- 社区版：免费且开源，Apaceh2.0开源许可。它提供了JVM和Android开发的基本功能。
 
 - 旗舰版：收费，但有30天体验期。它为Web企业开发提供了额外的工具和功能。
 
@@ -37,7 +36,7 @@ IDEA有以下版本可用：
 | 显示器   | 1024x768           | 1920×1080                   |
 | 操作系统 | 最低Win7           | 最新的64位版本              |
 
-`您不需要再安装Java环境即可运行IDEA，因为IntelliJ IDEA已经绑定了JRE1.8。但是要开发一个Java应用还需要有一个独立的JDK。`
+`你不需要再安装Java环境即可运行IDEA，因为IntelliJ IDEA已经绑定了JRE1.8。但是要开发一个Java应用还需要有一个独立的JDK。`
 
 
 
@@ -65,13 +64,13 @@ IDEA有以下版本可用：
 
 ## 单独安装
 
-手动安装IntelliJ IDEA可以管理每个实例和所有的配置文件。比如说您需要将它安装在特定的路径。
+手动安装IntelliJ IDEA可以管理每个实例和所有的配置文件。比如说你需要将它安装在特定的路径。
 
 1. 下载安装包 [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/ "下载")
 
 2. 运行安装文件并按步骤安装。
 
-   `32位的操作系统的JRE没有绑定IntelliJ IDEA。如果您用的Windows 32位系统，请在安装向导里选择“下载并安装JRE x86 JetBrains”选项。`
+   `32位的操作系统的JRE没有绑定IntelliJ IDEA。如果你用的Windows 32位系统，请在安装向导里选择“下载并安装JRE x86 JetBrains”选项。`
 
 
 
@@ -93,11 +92,11 @@ IDEA有以下版本可用：
 
 **静默配置文件**
 
-您可以为IntelliJ IDEA 下载静默配置文件  <https://download.jetbrains.com/idea/silent.config>
+你可以为IntelliJ IDEA 下载静默配置文件  <https://download.jetbrains.com/idea/silent.config>
 
-静默配置文件定义了安装IntelliJ IDEA的操作。默认只对当前用户（mode=user）执行静默安装。如果您想给所有的用户安装IntelliJ IDEA，用编辑器打开静默配置文件，改变安装模式参数（mode=admin）的值并且以管理员身份运行安装文件。
+静默配置文件定义了安装IntelliJ IDEA的操作。默认只对当前用户（mode=user）执行静默安装。如果你想给所有的用户安装IntelliJ IDEA，用编辑器打开静默配置文件，改变安装模式参数（mode=admin）的值并且以管理员身份运行安装文件。
 
-`默认静默配置文件是JetBrains 产品独一无二的特点。您可以根据需要修改各种安装选项可用或者禁用。`
+`默认静默配置文件是JetBrains 产品独一无二的特点。你可以根据需要修改各种安装选项可用或者禁用。`
 
 &nbsp;
 

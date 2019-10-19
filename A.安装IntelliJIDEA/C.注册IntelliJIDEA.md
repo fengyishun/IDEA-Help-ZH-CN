@@ -1,10 +1,12 @@
+# 注册IntelliJ IDEA
+
 ### 目录
 
 - [多个许可](#多个许可)
 
 &nbsp;
 
-您可以体验IntelliJ IDEA 30天。时间过了之后您需要购买并注册许可。
+你可以体验IntelliJ IDEA 30天。时间过了之后你需要购买并注册许可。
 
 `IDEA的预发行版是“抢先体验计划”的一部分，不需要任何注册并有三十天的许可`
 
@@ -41,10 +43,10 @@
 
 **Licenses** 对话框包含了许可列表和他们的状态：
 
-- *Expired*（过期）：续费您的许可才能继续使用。
-- *Grace period*（宽限期）：您离过期还有几天时间。
+- *Expired*（过期）：续费你的许可才能继续使用。
+- *Grace period*（宽限期）：你离过期还有几天时间。
 - *Evaluation period*：（体验期）：没有许可也能使用。
-- **Active license*（有效许可）：一直用到过期。
+- Active license（有效许可）：一直用到过期。
 
 如果想修改许可，点击**Edit** 按钮会打开**License Activation**对话框以便进行操作。
 

@@ -1,3 +1,5 @@
+# 第一次运行IDEA
+
 ### 目录
 
 - [IntelliJ IDEA之初体验](#IntelliJIDEA之初体验)
@@ -12,7 +14,7 @@
 
 ## IntelliJIDEA之初体验
 
-当您第一次运行IntelliJ IDEA 或者从旧版本升级到新版本，在安装过程中一些步骤都需要去完成。定制属于你的IntelliJ IDEA并用它来工作吧~
+当你第一次运行IntelliJ IDEA 或者从旧版本升级到新版本，在安装过程中一些步骤都需要去完成。定制属于你的IntelliJ IDEA并用它来工作吧~
 
 (原文档此处是一个YouTobe的video，所以看不了，略去)
 
@@ -22,13 +24,13 @@
 
 ## 导入IntelliJIDEA的设置
 
-在 Complete Installation对话框中，选择您是否导入IntelliJ IDEA的配置。
+在 Complete Installation对话框中，选择你是否导入IntelliJ IDEA的配置。
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_complete_installation_dialog.png>)
 
-如果这是您第一次安装IntelliJIDEA,选择“Do not import settings option”选项。
+如果这是你第一次安装IntelliJIDEA,选择“Do not import settings option”选项。
 
-`稍后您也可以通过主目录中的File- Import Settings和File- Export Settings来手动导入、导出配置项。`
+`稍后你也可以通过主目录中的File- Import Settings和File- Export Settings来手动导入、导出配置项。`
 
 
 
@@ -44,7 +46,7 @@
 
 ## 禁用不必要的插件
 
-IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和应用服务，并且支持各种框架和开发技术栈等等。为了提高性能，您可以禁用掉不需要的插件。如果需要，您稍后可以在File-Settings首选项配置面板（ctrl+alt+s）中的Plugins选项中来启用它。了解更多[插件管理](#chajianguanli)。
+IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和应用服务，并且支持各种框架和开发技术栈等等。为了提高性能，你可以禁用掉不需要的插件。如果需要，你稍后可以在File-Settings首选项配置面板（ctrl+alt+s）中的Plugins选项中来启用它。了解更多[插件管理](#chajianguanli)。
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_set_plugins.png>)
 
@@ -54,13 +56,13 @@ IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和�
 
 ![alt](<https://github.com/fengyishun/IDEA-Help-ZH-CN/blob/master/resources/ij_set_featured_plugins.png>)
 
-如果您需要，从 [IntelliJ IDEA plugins repository](https://plugins.jetbrains.com/idea?_ga=2.174780320.360104787.1571486729-488518170.1551947661)下载并安装IntelliJ IDEA未绑定的插件。
+如果你需要，从 [IntelliJ IDEA plugins repository](https://plugins.jetbrains.com/idea?_ga=2.174780320.360104787.1571486729-488518170.1551947661)下载并安装IntelliJ IDEA未绑定的插件。
 
 
 
 ## 开启IntelliJIDEA项目
 
-在欢迎页面，您可以有如下选择：
+在欢迎页面，你可以有如下选择：
 
 - [创建一个新的项目](#)
 - [导入一个项目](#)
