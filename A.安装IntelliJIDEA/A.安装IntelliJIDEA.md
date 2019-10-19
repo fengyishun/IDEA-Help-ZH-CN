@@ -105,4 +105,4 @@ IDEA有以下版本可用：
 
 
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[下一节 第一次运行IDEA >](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　第一次运行IDEA >](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)
