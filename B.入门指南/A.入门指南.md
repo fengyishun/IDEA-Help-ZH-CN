@@ -86,7 +86,7 @@ IDEA最重要的信息资源来自于 这[online help](https://www.jetbrains.com
 
 [回到顶部](#目录)
 
-[<上一节　卸载IntelliJ IDEA](/A.安装IntelliJIDEA/D.卸载IntelliJIDEA.md)                                                                                                     [<下一节　支持语言](/B.入门指南/B.支持语言.md)
+[<上一节　卸载IntelliJ IDEA](/A.安装IntelliJIDEA/E.卸载IntelliJIDEA.md) 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 [<下一节　支持语言](/B.入门指南/B.支持语言.md)
 
 &nbsp;
 
