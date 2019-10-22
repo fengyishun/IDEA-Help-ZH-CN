@@ -54,7 +54,7 @@ Windows下以管理员身份打开cmd，cd到安装目录，执行下面的命�
 
 [回到顶部](#目录)
 
-[<上一节　更新IntelliJ IDEA](/A.安装IntelliJIDEA/D.更新IntelliJIDEA.md)
+[< 上一节　更新IntelliJ IDEA](/A.安装IntelliJIDEA/D.更新IntelliJIDEA.md)  　　　　　　　　　　　　　　　　　　　　　　　　[下一节　入门指南 >](/B.入门指南/A.入门指南.md)
 
 &nbsp;
 

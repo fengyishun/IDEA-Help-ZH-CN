@@ -54,7 +54,7 @@
 
 [回到顶部](#目录)
 
-[上一节　第一次运行IntelliJ IDEA>](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)　　　　　　　　　　　　　　　　　　　　　　 　[下一节　更新IntelliJ IDEA>](/A.安装IntelliJIDEA/D.更新IntelliJIDEA.md)
+[< 上一节　第一次运行IntelliJ IDEA](/A.安装IntelliJIDEA/B.第一次运行IDEA.md)　　　　　　　　　　　　　　　　　　　　　　[下一节　更新IntelliJ IDEA >](/A.安装IntelliJIDEA/D.更新IntelliJIDEA.md)
 
 &nbsp;
 

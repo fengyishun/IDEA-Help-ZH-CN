@@ -105,7 +105,7 @@ IDEA默认使用HTTPS下载更新，如果你使用不安全的HTTP，取消**Us
 
 [回到顶部](#目录)
 
-[<上一节　注册IntelliJ IDEA](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)   　　　　　　　　　　　　　　　　　　　　　　　　　[<下一节　卸载IntelliJ IDEA](/A.安装IntelliJIDEA/E.卸载IntelliJIDEA.md)
+[< 上一节　注册IntelliJ IDEA](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)   　　　　　　　　　　　　　　　　　　　　　　　　[下一节　卸载IntelliJ IDEA >](/A.安装IntelliJIDEA/E.卸载IntelliJIDEA.md)
 
 &nbsp;
 

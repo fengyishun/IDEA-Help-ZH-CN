@@ -79,7 +79,7 @@ IntelliJ IDEA有非常之多的插件用来整合不同的版本控制系统和�
 
 
 
-[< 上一节　安装IntelliJ IDEA](/A.安装IntelliJIDEA/A.安装IntelliJIDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　注册IntelliJ IDEA>](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)
+[< 上一节　安装IntelliJ IDEA](/A.安装IntelliJIDEA/A.安装IntelliJIDEA.md)　　　　　　　　　　　　　　　　　　　　　　　　　[下一节　注册IntelliJ IDEA >](/A.安装IntelliJIDEA/C.注册IntelliJIDEA.md)
 
 &nbsp;
 
