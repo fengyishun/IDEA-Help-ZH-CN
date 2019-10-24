@@ -33,10 +33,10 @@
 
 3. 删除以下文件夹：
 
-   | 配置文件                                            | 系统文件                                           |
-   | --------------------------------------------------- | -------------------------------------------------- |
-   | %HOMEPATH%\.<product><version>\config               | %HOMEPATH%\.<product><version>\system              |
-   | **示例:**C:/Users/JohnS/\.IntelliJIdea2019.1/config | **示例:**C:/Users/JohnS/.IntelliJIdea2019.1/system |
+   | 配置文件                                        | 系统文件                                       |
+   | ----------------------------------------------- | ---------------------------------------------- |
+   | %HOMEPATH%\.<product><version>\config           | %HOMEPATH%\.<product><version>\system          |
+   | 示例:C:/Users/JohnS/\.IntelliJIdea2019.1/config | 示例:C:/Users/JohnS/.IntelliJIdea2019.1/system |
 
 
 
